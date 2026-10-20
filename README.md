@@ -4,7 +4,7 @@ I am a PhD student in Urban Systems at NYU Tandon, advised by [Debra Laefer](htt
 
 **Three pieces of that work**
 
-- **[civic-honesty-benchmark](https://github.com/phbui/civic-honesty-benchmark)**. A 596-question live-data benchmark over NYC street-pavement open data, with gold answers recomputed against the live API. Claude Haiku 4.5 quoted the documented reliability caveat on every answer that needed one and disclosed a discoverable data defect in 0 of 108 eligible answers.
+- **[civic-honesty-benchmark](https://github.com/phbui/civic-honesty-benchmark)**. A 596-question live-data benchmark over NYC street-pavement open data, with gold answers recomputed against the live API. Ten model settings from six families carry the documented reliability caveat on every answer that needs one and disclose a discoverable data defect on none to a third of eligible answers; a null count in the schema or one added paragraph moves most of them. Under review at ACM FAccT 2027.
 - **Scoring Rules Certify Reporting, Not Seeking.** A proof that level-based proper scoring-rule rewards certify honest reporting but not information-seeking, for every strictly proper binary rule. Poster at the IROS 2026 Full-Shift Robot Co-Workers workshop ([OpenReview](https://openreview.net/forum?id=y5JAU3DwZc)).
 - **State-Wise Constrained Policy Shaping for Zero-Shot Runtime Behavior Steering.** A post-training supervisor that enforces safety norms on DQN driving agents in HighwayEnv. Collisions fell 97% in-distribution and 99% zero-shot. Oral at the [AAAI-26 Workshop on AI Governance](https://aigovernance.github.io/), with T. Howell, R. McPherson and V. Sarathy. [Code](https://github.com/thowell332/state-wise-constrained-policy-shaping).
 
